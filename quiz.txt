@@ -1,0 +1,12 @@
+What is an expression?
+an expression is a piece of code that produce a value
+
+example:
+"*" * 3 
+"***"
+
+What is a syntax error?
+a syntax error is a kind of error that is due to bad syntax or bad grammar in the code
+
+What does a linter do?
+a linter is a tool that checks our code for potencial errors mostly in the category of syntactical error, before running our program
